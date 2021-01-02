@@ -8,7 +8,7 @@ game_hash {
   :away {
     :team_name => "Charlotte_Hornets"
     :colors => ["Turquoise", "Purple"]
-    :players => [ {:player_name => "Jeff_Adrien", :number => 4, :shoe => 18, :points => 10, :rebounds => 12, :assists => 12, :steals => 3, :blocks => 1, :slam_dunks => 1}
+    :players => [ {:player_name => "Jeff_Adrien", :number => 4, :shoe => 18, :points => 10, :rebounds => 1, :assists => 1, :steals => 3, :blocks => 1, :slam_dunks => 1}
       ]
   }
 }
